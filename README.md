@@ -13,7 +13,7 @@ O objetivo do projeto foi criar um ecnurtador de links usando as tecnologias Nod
     - ``npm run build``
     - ``npm run dev``
 
-## Sobre min
+## Sobre mim
 
 - Instagram - [@naiandersonbruno_](https://www.instagram.com/naiandersonbruno_/)
 - Lnkedin - [Naianderson Bruno](www.linkedin.com/in/naianderson-bruno-franca)
