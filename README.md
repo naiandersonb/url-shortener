@@ -6,7 +6,7 @@ O objetivo do projeto foi criar um ecnurtador de links usando as tecnologias Nod
 
 ## Rodando o projeto
 
-- no arquivo Constants.ts adicione seus dados de conexão username, password e no me do banco de dados
+- no arquivo ``_Constants.ts_`` adicione seus dados de conexão username, password e no me do banco de dados
 
 - em seguida execute os seguintes comandos;
     - ``npm run dev``
