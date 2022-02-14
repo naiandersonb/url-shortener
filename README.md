@@ -2,7 +2,7 @@
 
 Este é um projeto desenvolvindo durante o bootcamp **Eduzz Fullstack Developer** promovido pela [Digital Innovation One](https://web.dio.me/).
 
-O objetivo do projeto foi criar um ecnurtador de links usando as tecnologias Node.js em conjunto com o banco de dados MongoDB.
+O objetivo do projeto foi criar um encurtador de links usando as tecnologias Node.js em conjunto com o banco de dados MongoDB.
 
 ## Rodando o projeto
 
